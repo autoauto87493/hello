@@ -1,1 +1,10 @@
-hello
+$ git pull o main
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 849 bytes | 10.00 KiB/s, done.
+From https://github.com/autoauto87493/hello
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> o/main
+fatal: refusing to merge unrelated histories
+
